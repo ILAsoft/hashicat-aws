@@ -1,0 +1,13 @@
+
+*** These modified files were found in JOE when it aborted on Sat Aug 19 05:16:55 2023
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/root/hashicat-aws/.git/MERGE_MSG
+/root/hashicat-aws/.git/COMMIT_EDITMSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
